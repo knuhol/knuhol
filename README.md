@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knuhol" alt="knuhol" /></a> </p>
 
-- 🔭 I’m currently working on [DKDB](https://github.com/knuhol/dkdb-fe)
+- 🔭 I’m currently working on [svedsko-blog](https://github.com/knuhol/svedsko-blog)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [https://knuhol.tech](https://knuhol.tech)
 
